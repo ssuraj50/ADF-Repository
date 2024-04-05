@@ -1,0 +1,9 @@
+{
+	"name": "cgdatafactory77",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f4cb03d-677a-4237-807a-a327f8b4a2b8",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
